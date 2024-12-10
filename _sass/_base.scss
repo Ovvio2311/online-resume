@@ -289,13 +289,14 @@ p {
   .item {
     display: inline-block;
     margin-bottom: 15px;
-    width: 100px;
+    
     //overflow: hidden;
   }
   .level-title {
     display: inline-block;
     font-size: 14px;
     margin-top: 0;
+    width: 100px;
     //margin-bottom: 12px;
   }
   .level-bar {
