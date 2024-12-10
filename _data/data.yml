@@ -198,10 +198,10 @@ skills:
 
     toolset:
       - name: Python & Django
-        level: 98%
+        level:
 
       - name: Javascript & jQuery
-        level: 98%
+        level:
 
       - name: Angular
         level: 98%
