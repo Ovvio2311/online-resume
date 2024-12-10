@@ -69,8 +69,8 @@ career-profile:
 education:
     title: Education
     info:
-      - Higher Diploma: Information and Communications Technology
-        location: IVE
+      - degree: Information and Communications Technology
+        university: IVE
         time: 2021 - 2024
         details:
       - degree: BSc in Applied Mathematics
