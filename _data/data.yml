@@ -197,22 +197,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Kubernetes
         
 
-      - name: Javascript & jQuery
+      - name: GCP
         
 
-      - name: Angular
+      - name: Terraform
         
 
-      - name: HTML5 & CSS
+      - name: Ansible
         
 
-      - name: Ruby on Rails
+      - name: Python
         
 
-      - name: Sketch & Photoshop
+      - name: c#
         
 
 footer: >
