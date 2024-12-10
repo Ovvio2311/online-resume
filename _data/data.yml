@@ -144,7 +144,7 @@ certifications:
           credentialurl:
           credentialname:
           details:
-projects:
+# projects:
     title:
     intro: 
     assignments:
