@@ -89,21 +89,21 @@ experiences:
         time: Jul 2022 - Present
         company: Autotoll Resources Management Limited
         details: |
-          	Manage, implement VMs of HKeToll system in Government Communication and Information System (GCIS) site
+          - Manage, implement VMs of HKeToll system in Government Communication and Information System (GCIS) site
               §	Formulate terraform and Ansible to build images, VMs and k8s HA cluster
               §	Deploy ArgoCD, GitLab, Harbor
               §	Design, implement pipeline with GitLab CICD
-          	Design, implement EV (Electric Vehicle) charging project in GCP
+          - Design, implement EV (Electric Vehicle) charging project in GCP
               §	Design Terraform to build GKE 
               §	Deploy GitLab, ArgoCD in GKE cluster
               §	Design CICD workflow from build image until deploy to production site
-          	Setup automation for renewing k8s cluster and GitLab certs periodically
-          	Setting ingress Nginx controller and load balancer in with TLS in vSphere environment for production use 
-          	Build python and bash script to build SSH tunnel in order to manipulate various services for operating team
-          	Cooperate in GitLab CI/CD in development site to accelerate 50% efficiency of deployment process
-          	Design data flow and Implement program to backup videos in S3 object storage and relevant data using ASP.NET for HKeToll system
-          	Develop different ASP.NET web service programs including vehicle tag operation, manual image review system and customer complaint management system
-          	Develop and maintain Toll Information Display System (TIDS) between Data Acquisition System (DAS) and Backend System (BES) of HKeToll using ASP.NET, MSSQL, Redis
+          - Setup automation for renewing k8s cluster and GitLab certs periodically
+          - Setting ingress Nginx controller and load balancer in with TLS in vSphere environment for production use 
+          - Build python and bash script to build SSH tunnel in order to manipulate various services for operating team
+          - Cooperate in GitLab CI/CD in development site to accelerate 50% efficiency of deployment process
+          - Design data flow and Implement program to backup videos in S3 object storage and relevant data using ASP.NET for HKeToll system
+          - Develop different ASP.NET web service programs including vehicle tag operation, manual image review system and customer complaint management system
+          - Develop and maintain Toll Information Display System (TIDS) between Data Acquisition System (DAS) and Backend System (BES) of HKeToll using ASP.NET, MSSQL, Redis
 
       - role: Senior Software Engineer
         time: 2014 - 2015
