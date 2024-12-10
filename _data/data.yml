@@ -145,12 +145,12 @@ certifications:
           credentialname:
           details:
 # projects:
-    title:
-    intro: 
-    assignments:
-      - title:
-        link:
-        tagline:
+   # title:
+   # intro: 
+   # assignments:
+   #   - title:
+   #     link:
+   #     tagline:
 
 oss:
     title: OSS Contributions
