@@ -94,9 +94,9 @@ experiences:
               - Deploy ArgoCD, GitLab, Harbor
               - Design, implement pipeline with GitLab CICD
           - Design, implement EV (Electric Vehicle) charging project in GCP
-            - Design Terraform to build GKE 
-            - Deploy GitLab, ArgoCD in GKE cluster
-            - Design CICD workflow from build image until deploy to production site
+              - Design Terraform to build GKE 
+              - Deploy GitLab, ArgoCD in GKE cluster
+              - Design CICD workflow from build image until deploy to production site
           - Setup automation for renewing k8s cluster and GitLab certs periodically
           - Setting ingress Nginx controller and load balancer in with TLS in vSphere environment for production use 
           - Build python and bash script to build SSH tunnel in order to manipulate various services for operating team
@@ -104,77 +104,49 @@ experiences:
           - Design data flow and Implement program to backup videos in S3 object storage and relevant data using ASP.NET for HKeToll system
           - Develop different ASP.NET web service programs including vehicle tag operation, manual image review system and customer complaint management system
           - Develop and maintain Toll Information Display System (TIDS) between Data Acquisition System (DAS) and Backend System (BES) of HKeToll using ASP.NET, MSSQL, Redis
+          -	Develop Restful API to communicate between frontend web programs for Enforcement Case Management System
+          -	Revamp the Autotoll ETC using React and ASP.NET for pushing real-time traffic data 
+          - Revamp the Dah Sing Bank payment gateway system (dahsingbank.gateway.mastercard.com/ma/) using Node.js for CRUD data and generate reports for Account Department
 
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+      - role: System Application Support
+        time: May 2022 – Jun 2022
+        company: Autotoll Resources Management Limited
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          -	Monitored routine tasks via PowerShell & batch script
+          -	Build-up scraper scripts to download CSV file for routine task by using Node.js
+          - Enhanced SQL query scripts to generic in order to improve task efficiency
+
+      - role: System Support
+        time: May 2018 – Apr 2022
+        company: Autotoll Resources Management Limited
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          -	Install and configure computer hardware operating systems and applications
+          -	Monitor and maintain computer systems and networks
+          -	Set up new users' accounts and profiles and deal with password issues
+          - Build up server for tunnels
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+        - name: Certified Kubernetes Administrator (CKA)
+          start: 2024
+          end: 2026
+          organization: Linux Foundation
+          credentialid:
+          credentialurl:
+          credentialname:
+          details:
+        - name: Cisco Certified Network Associate (CCNA)
+          start: 2021
+          end: 2024
+          organization: Cisco
+          credentialid:
+          credentialurl:
+          credentialname:
+          details:
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title:
+    intro: 
     assignments:
       - title: Velocity
         link: "#hook"
