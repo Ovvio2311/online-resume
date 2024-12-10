@@ -286,11 +286,13 @@ p {
   display: inline-block;
   margin: 0 auto;
   width: 400px;
-  .item {  
+  .item {
+    display: inline-block;
     //margin-bottom: 15px;
     //overflow: hidden;
   }
   .level-title {
+    display: inline-block;
     font-size: 14px;
     //margin-top: 0;
     //margin-bottom: 12px;
