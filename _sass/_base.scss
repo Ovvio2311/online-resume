@@ -282,12 +282,13 @@ p {
 
 .skillset {
   text-align: center;
+  width: 100%;
   .item {
     display: inline-block;
     margin: 0 auto;
     width: 500px;
     //margin-bottom: 15px;
-    overflow: hidden;
+    //overflow: hidden;
   }
   .level-title {
     font-size: 14px;
