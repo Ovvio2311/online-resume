@@ -45,17 +45,17 @@ sidebar:
         - idiom: Mandarin
           level: Good
 
-    interests:
-      title: Interests
-      info:
-        - item: Climbing
-          link:
+    # interests:
+    #   title: Interests
+    #   info:
+    #     - item: Climbing
+    #       link:
 
-        - item: Snowboarding
-          link:
+    #     - item: Snowboarding
+    #       link:
 
-        - item: Cooking
-          link:
+    #     - item: Cooking
+    #       link:
 
 career-profile:
     title: Career Profile
