@@ -198,22 +198,17 @@ skills:
 
     toolset:
       - name: Kubernetes
-        
-
       - name: GCP
-        
-
       - name: Terraform
-        
-
       - name: Ansible
-        
-
       - name: Python
-        
-
-      - name: c#
-        
+      - name: C#
+      - name: Helm
+      - name: Harbor
+      - name: CI/CD pipeline
+      - name: ArgoCD
+      - name: Grafana
+      - name: Git
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
