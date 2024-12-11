@@ -36,6 +36,7 @@
   .skillset .level-title {
     display: inline-block;
     text-align: center;
+    align: center;
     //float: left;
     //width: 25%;
     margin-bottom: 0;
@@ -43,7 +44,8 @@
   .skillset .item {
     width: 20%;
     display: inline-block;
-    align: center
+    align: center;
+    text-align: center;
   }
   .skillset {
     //text-align: center;
