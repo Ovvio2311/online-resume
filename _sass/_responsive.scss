@@ -39,12 +39,15 @@
     width: 25%;
     margin-bottom: 0;
   }
-  
-.skillset {
-  text-align: center;
-  //width: 100%;
-  display: inline-block;
-  margin: 0 auto;
+  .skillset .item {
+    width: 25%;
+    display: inline-block;
+  }
+  .skillset {
+    text-align: center;
+    //width: 100%;
+    display: inline-block;
+    margin: 0 auto;
   }
   .skillset .level-bar {
     width: 70%;
