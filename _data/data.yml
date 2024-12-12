@@ -15,7 +15,7 @@ sidebar:
     # Sidebar links
     email: jackieli523@yahoo.com.hk
     phone: 852 9185 9551
-    timezone: Asia/HongKong # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    timezone: Asia/Hong_Kong # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
     website: # Include the full website URL, including "http://" or "https://".
     linkedin:
@@ -145,7 +145,7 @@ certifications:
           credentialid:
           credentialurl:
           credentialname:
-          details:
+          details: https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-administrator-cka?id=462fffb4-5683-4a4d-a33a-c899cd8d03ff
         - name: Cisco Certified Network Associate (CCNA)
           start: 2021
           end: 2024
