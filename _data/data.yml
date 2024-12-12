@@ -143,9 +143,9 @@ certifications:
           end: 2026
           organization: Linux Foundation
           credentialid:
-          credentialurl:
+          credentialurl: https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-administrator-cka?id=462fffb4-5683-4a4d-a33a-c899cd8d03ff
           credentialname:
-          details: https://trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-administrator-cka?id=462fffb4-5683-4a4d-a33a-c899cd8d03ff
+          details: 
         - name: Cisco Certified Network Associate (CCNA)
           start: 2021
           end: 2024
