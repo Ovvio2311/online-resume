@@ -219,6 +219,9 @@ skills:
       - name: ArgoCD
       - name: Grafana
       - name: Git
-
+# Design and prepare CICD pipeline and infrastructure for vendors project
+Initialize ChatOps common services for department
+Prepare user guide and user training for ChatOps services
+Design network diagram and conduct procedure, guideline for vendors project
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
