@@ -85,6 +85,14 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Contract Analyst Programmer (working at Hospital Authority)
+        time: Feb 2025 - Present
+        company: Chinasoft International Technology Service (Hong Kong) Limited
+        details: |
+          - Design and prepare CICD pipeline and infrastructure for vendors project
+          - Initialize ChatOps common services for department
+          - Prepare user guide and user training for ChatOps services
+          - Design network diagram and conduct procedure, guideline for vendors project
       - role: Programmer cum DevOps Engineer
         time: Jul 2022 - Present
         company: Autotoll Resources Management Limited
@@ -219,9 +227,6 @@ skills:
       - name: ArgoCD
       - name: Grafana
       - name: Git
-# Design and prepare CICD pipeline and infrastructure for vendors project
-Initialize ChatOps common services for department
-Prepare user guide and user training for ChatOps services
-Design network diagram and conduct procedure, guideline for vendors project
+
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
