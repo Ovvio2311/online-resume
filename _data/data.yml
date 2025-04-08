@@ -90,9 +90,10 @@ experiences:
         company: Chinasoft International Technology Service (Hong Kong) Limited
         details: |
           - Design and prepare CICD pipeline and infrastructure for vendors project
-          - Initialize ChatOps common services for department
-          - Prepare user guide and user training for ChatOps services
           - Design network diagram and conduct procedure, guideline for vendors project
+          - Initialize ChatOps common services for department
+          - Prepare user guide and user training for ChatOps services          
+          - Create user and group for IaaS VMs for the purpose of upgrade from VMware to Hyper-V
       - role: Programmer cum DevOps Engineer
         time: Jul 2022 - Feb 2025
         company: Autotoll Resources Management Limited
