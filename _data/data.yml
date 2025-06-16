@@ -92,7 +92,7 @@ experiences:
           - Design and prepare CICD pipeline and infrastructure for vendors project          
           - Design network diagram and conduct procedure, guideline for vendors project                                                            
           - Initialized ChatOps common services in HA Chats for status checking in Cluster Cloud PaaS OpenShift
-        	  - Communicated with T6 and SC4 team
+              - Communicated with T6 and SC4 team
               - Enhanced functions to support menu selection of namespaces instead of manual namespace input
               - Used Python to generate JSON menu for HAChat menus
               - Verified function validity at midnight
