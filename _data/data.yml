@@ -89,14 +89,21 @@ experiences:
         time: Feb 2025 - Present
         company: Chinasoft International Technology Service (Hong Kong) Limited
         details: |
-          - Design and prepare CICD pipeline and infrastructure for vendors project
-          - Prepare user guide and user training for ChatOps services
-          - Design network diagram and conduct procedure, guideline for vendors project
-          - Initialize ChatOps common services for department                
-          - Create user and group for IaaS VMs for the purpose of upgrade from VMware to Hyper-V
-          - Maintain Private Cloud (Openshift) operation
-          - Enhance GitHub CICD pipeline for NTWC department
-          - Monitor resources using for cluster cloud (Openshift)
+          - Design and prepare CICD pipeline and infrastructure for vendors project          
+          - Design network diagram and conduct procedure, guideline for vendors project                                                            
+          - Initialized ChatOps common services in HA Chats for status checking in Cluster Cloud PaaS OpenShift
+        	- Communicated with T6 and SC4 team
+            - Enhanced functions to support menu selection of namespaces instead of manual namespace input
+            - Used Python to generate JSON menu for HAChat menus
+            - Verified function validity at midnight
+          - Assisted in creating accounts for T6 to proceed with non-production IaaS VM migration from VMware to Hyper-V
+            - Verified non-production VMs ran without errors
+            - Restarted the cluster API gateway while checking service availability
+            - Disabled non-production VM accounts after migration completion
+          - Prepared scripts to verify cloud applications’ health
+            - (On-going) Preparing cron job to scale down unused Pods (idle for ~7 days) on DEVQA and AAT 
+            - Released database connections and cloud resources
+
       - role: Programmer cum DevOps Engineer
         time: Jul 2022 - Feb 2025
         company: Autotoll Resources Management Limited
