@@ -103,6 +103,19 @@ experiences:
           - Prepared scripts to verify cloud applications’ health
               - (On-going) Preparing cron job to scale down unused Pods (idle for ~7 days) on DEVQA and AAT 
               - Released database connections and cloud resources
+          -	Enhance all ChatOps functions to support namespace menu selection
+          - SAM3/AuthService version 2 rollout (adopting new GitHub Action)
+            - Set up new SAM3 CDRA workflow (renamed: SAM3v2)
+            - Deploy new AuthService using SAM3v2
+            - Implement new API on the API Gateway
+            - Run in parallel and monitor for abnormalities in new applications
+            - Replace existing API on the API Gateway to point to new AuthServices (minimize service impact)
+          - Manage production IaaS VMs
+          - Create shell script to retrieve cluster data from OpenShift and Grafana for pod usage monitoring
+            - Build monitoring engine for namespaces (non-production and production)
+            - Notify NTWC private cloud support for administration if usage exceeds 60%
+          - Roll out cron job to scale down unused Pods in DEVQA/AAT namespaces
+
       - role: Programmer cum DevOps Engineer
         time: Jul 2022 - Feb 2025
         company: Autotoll Resources Management Limited
