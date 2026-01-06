@@ -89,33 +89,27 @@ experiences:
         time: Feb 2025 - Present
         company: Chinasoft International Technology Service (Hong Kong) Limited
         details: |
-          - Design and prepare CICD pipeline and infrastructure for vendors project          
-          - Design network diagram and conduct procedure, guideline for vendors project                                                            
-          - Initialized ChatOps common services in HA Chats for status checking in Cluster Cloud PaaS OpenShift
-              - Communicated with T6 and SC4 team
+          -	Initialized ChatOps common services in HA Chats for status checking in Cluster Cloud PaaS OpenShift
               - Enhanced functions to support menu selection of namespaces instead of manual namespace input
               - Used Python to generate JSON menu for HAChat menus
-              - Verified function validity at midnight
-          - Assisted in creating accounts for T6 to proceed with non-production IaaS VM migration from VMware to Hyper-V
-              - Verified non-production VMs ran without errors
-              - Restarted the cluster API gateway while checking service availability
-              - Disabled non-production VM accounts after migration completion
-          - Prepared scripts to verify cloud applications’ health
-              - (On-going) Preparing cron job to scale down unused Pods (idle for ~7 days) on DEVQA and AAT 
+          - Prepared cronjob in Openshift cluster to scale down unused pods in testing environments
               - Released database connections and cloud resources
-          -	Enhance all ChatOps functions to support namespace menu selection
-          - SAM3/AuthService version 2 rollout (adopting new GitHub Action)
-            - Set up new SAM3 CDRA workflow (renamed: SAM3v2)
-            - Deploy new AuthService using SAM3v2
-            - Implement new API on the API Gateway
-            - Run in parallel and monitor for abnormalities in new applications
-            - Replace existing API on the API Gateway to point to new AuthServices (minimize service impact)
-          - Manage production IaaS VMs
-          - Create shell script to retrieve cluster data from OpenShift and Grafana for pod usage monitoring
-            - Build monitoring engine for namespaces (non-production and production)
-            - Notify NTWC private cloud support for administration if usage exceeds 60%
-          - Roll out cron job to scale down unused Pods in DEVQA/AAT namespaces
-
+          - Enhance ChatOps functions to support by Tuen Mun Hospital using
+          - SAM3/AuthService new version rollout (adopting new GitHub Action)
+              - Set up new CDRA workflow and deploy new related applications
+              - Implement new API on the API Gateway to replace existing one
+          - Create shell script in cronjob to monitor pods resources usage
+              - Deployed proactive monitoring across DEV, UAT, and PRD environments to track pod health, enabling developers to adjust resources based on real-time metrics
+          - Enhanced Github workflow
+              - Implement new API on the API Gateway to replace existing one
+              - Build CICD pipeline for development, release and production sites
+              - Create helm value file for different environment sites
+          - Handle daily Openshift operation
+              - Enlarge deployment resources and increase namespace resources quota
+              - Problem fixing in DEV and UAT CICD pipeline issues
+          - Initialize new rewritten application - Flashcat
+              - Monitor space usage and establish threshold limits on the IaaS VM to optimize performance
+                                                         
       - role: Programmer cum DevOps Engineer
         time: Jul 2022 - Feb 2025
         company: Autotoll Resources Management Limited
@@ -169,6 +163,14 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Certified Kubernetes Application Developer (CKAD)
+          start: 2025
+          end: 2027
+          organization: Linux Foundation
+          credentialid:
+          credentialurl: trainingportal.linuxfoundation.org/learn/certificates/certified-kubernetes-administrator-cka?id=462fffb4-5683-4a4d-a33a-c899cd8d03ff
+          credentialname: Link
+          details: 
         - name: Certified Kubernetes Administrator (CKA)
           start: 2024
           end: 2026
