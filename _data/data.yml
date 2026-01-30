@@ -91,21 +91,18 @@ experiences:
         details: |
           -	Initialized ChatOps common services in HA Chats for status checking in Cluster Cloud PaaS OpenShift
               - Enhanced functions to support menu selection of namespaces instead of manual namespace input
-              - Used Python to generate JSON menu for HAChat menus
+              - Used Python to generate JSON menu for HAChat menus              
           - Prepared cronjob in Openshift cluster to scale down unused pods in testing environments
-              - Released database connections and cloud resources
-          - Enhance ChatOps functions to support by Tuen Mun Hospital using
+              - Released database connections and cloud resources          
           - SAM3/AuthService new version rollout (adopting new GitHub Action)
               - Set up new CDRA workflow and deploy new related applications
               - Implement new API on the API Gateway to replace existing one
           - Create shell script in cronjob to monitor pods resources usage
               - Deployed proactive monitoring across DEV, UAT, and PRD environments to track pod health, enabling developers to adjust resources based on real-time metrics
-          - Enhanced Github workflow
-              - Implement new API on the API Gateway to replace existing one
-              - Build CICD pipeline for development, release and production sites
-              - Create helm value file for different environment sites
-          - Handle daily Openshift operation
-              - Enlarge deployment resources and increase namespace resources quota
+          - Enhanced Github workflow              
+              - Maintain CICD pipeline for DEV, UAT and PRD sites
+              - Enhanced helm value file for different environment sites
+          - Handle daily Openshift operation              
               - Problem fixing in DEV and UAT CICD pipeline issues
           - Initialize new rewritten application - Flashcat
               - Monitor space usage and establish threshold limits on the IaaS VM to optimize performance
@@ -129,8 +126,7 @@ experiences:
           - Design data flow and Implement program to backup videos in S3 object storage and relevant data using ASP.NET for HKeToll system
           - Develop different ASP.NET web service programs including vehicle tag operation, manual image review system and customer complaint management system
           - Develop and maintain Toll Information Display System (TIDS) between Data Acquisition System (DAS) and Backend System (BES) of HKeToll using ASP.NET, MSSQL, Redis
-          -	Develop Restful API to communicate between frontend web programs for Enforcement Case Management System
-          -	Revamp the Autotoll ETC using React and ASP.NET for pushing real-time traffic data 
+          -	Develop Restful API to communicate between frontend web programs for Enforcement Case Management System        
           - Revamp the Dah Sing Bank payment gateway system (dahsingbank.gateway.mastercard.com/ma/) using Node.js for CRUD data and generate reports for Account Department
 
       - role: System Application Support
